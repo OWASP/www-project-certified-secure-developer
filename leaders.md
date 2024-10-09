@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sam Stepanyan](mailto:Sam.Stepanyan@owasp.org)
+* [Shruti Kulkarni ](mailto:Sam.Stepanyan@owasp.org)
