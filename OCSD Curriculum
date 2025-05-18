@@ -10,13 +10,13 @@ pitch: Curriculum
 
 ---
 
-# OCSD curriculum - OWASP Certified Secure-Software Developer
+## OCSD curriculum - OWASP Certified Secure-Software Developer
 
 
-# Scope web application security
+## Scope web application security
 
-# If I am hiring a web application developer, what are the security related skills I would look for?
-# If I were a web application developer what security skills would I like to be validated for?
+## If I am hiring a web application developer, what are the security related skills I would look for?
+## If I were a web application developer what security skills would I like to be validated for?
 
 # 1. Authentication and authorisation
 # 2. Session Management
@@ -40,8 +40,8 @@ pitch: Curriculum
 # 20. Cornucopia
 # 21. Cheat sheets
 
-—--
-# ASVS 4.0 Topics:
+#—--
+## ASVS 4.0 Topics:
 
 # 1. Architecture, Design, and Threat Modeling
 # Security architecture fundamentals
@@ -127,10 +127,10 @@ pitch: Curriculum
 # Secrets management (env vars, vaults)
 # Hardening environments / no debug mode /secure headers/CORS
 
-—-----
+#—-----
 
 
-# Cheat Sheets topics mapped to ASVS 
+## Cheat Sheets topics mapped to ASVS 
 
 # V1: Architecture, Design and Threat Modeling Requirements
 # V1.1 Secure Software Development Lifecycle Requirements
