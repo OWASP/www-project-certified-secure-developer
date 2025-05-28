@@ -1,4 +1,4 @@
-### Certified Secure Developer Information
+### OWASP Certified Secure-Software Developer Information
 * [Incubator Project](#)
 * [Type of Project](#)
 * [Version 0.0.0](#)
