@@ -20,7 +20,7 @@ This project has been discussed in the Education and Training Committee meetings
 [https://docs.google.com/document/d/1Rp-wlgDnNd1QcVt4RLgnnsb5yEdihNwAQohABkg_CPM/edit|https://docs.google.com/document/d/1Rp-wlgDnNd1QcVt4RLgnnsb5yEdihNwAQohABkg_CPM/edit]
 
 ### Road Map
-The following tasks are planned to be run in parallel.
+The following tasks are planned to be run in parallel.\
 &nbsp; &nbsp; &nbsp; &nbsp; Refine the proposal for creation of OWASP Certified Secure Developer - 3 to 6 months.. that takes us from Dec 2024 to Mar 2025\
 &nbsp; &nbsp; &nbsp; &nbsp; Look at ways to get accreditation for the certificate - 3 to 6 months.. that takes us from Mar 2025 to Sept 2025\
 &nbsp; &nbsp; &nbsp; &nbsp; Create the curriculum for certification ... upto 6 months .. that takes us from April 2025 to Dec 2025 (give or take a few months)\
