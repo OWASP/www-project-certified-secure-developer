@@ -21,8 +21,9 @@ This project has been discussed in the Education and Training Committee meetings
 
 ### Road Map
 The following tasks are planned to be run in parallel.
-Refine the proposal for creation of OWASP Certified Secure Developer - 3 to 6 months.. that takes us to Dec 2024 to Mar 2025
-Look at ways to get accreditation for the certificate - 3 to 6 months.. that takes us to Dec 2024 to Mar 2025
-Creation of question bank - 3 to 6 months.. that takes us to Dec 2024 to Mar 2025
+Refine the proposal for creation of OWASP Certified Secure Developer - 3 to 6 months.. that takes us from Dec 2024 to Mar 2025
+Look at ways to get accreditation for the certificate - 3 to 6 months.. that takes us from Mar 2025 to Sept 2025
+Create the curriculum for certification ... upto 6 months .. that takes us from April 2025 to Dec 2025 (give or take a few months)
+Creation of question bank - 3 to 6 months.. that takes us from Sept 2025 to Jan 2026
 
 I am sure the timelines will change as we start executing the plan. But this is what it looks like at this point in time.
