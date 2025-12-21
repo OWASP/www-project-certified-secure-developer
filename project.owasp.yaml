@@ -1,0 +1,28 @@
+audience:
+  - breaker
+  - builder
+community:
+  - name: project-owasp-certified-secure-software-developer
+    platform: slack
+    url: https://owasp.slack.com/archives/C08UA7KTLSF
+    description: Please join us to discuss the OWASP certified secure-software developer certification program
+leaders:
+  - name: Sam Stepanyan
+    email: Sam.Stepanyan@owasp.org
+    github: securestep9
+  - name: Shruti Kulkarni
+    email: Shruti.Kulkarni@owasp.org
+    github: Shruti-s-kulkarni
+level: 2
+name: OWASP Certified Secure Developer
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-certified-secure-developer
+    url: https://github.com/OWASP/www-project-certified-secure-developer
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-certified-secure-developer
