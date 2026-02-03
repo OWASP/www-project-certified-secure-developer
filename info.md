@@ -10,7 +10,7 @@
 * [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [GitHub](https://github.com/OWASP/OCSD)
 
 ### Change Log
 * [changes](#)
