@@ -1,17 +1,16 @@
 ### OWASP Certified Secure-Software Developer Information
 * [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
+* [Type of Project](Documentation)
+* [Version 0.0.1](#)
 * [Builder](#)
-* [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+
+### Social Links
+* [LinkedIN](https://www.linkedin.com/company/owasp-certifications/)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/OCSD)
 
 ### Change Log
-* [changes](#)
+* [change log](https://github.com/OWASP/OCSD/commits/main/)
 
